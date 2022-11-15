@@ -1,0 +1,44 @@
+_repo: Troubled-star_69190
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Smith, George Oliver
+    - Long, Wesley
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2022-10-20'
+identifiers:
+  gutenberg: '69190'
+language: en
+pgterms:marc905: 20220522101534smith
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Better Publications, Inc.,1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Actors -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Troubled star
+url: http://www.gutenberg.org/ebooks/69190
